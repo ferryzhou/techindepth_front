@@ -1,4 +1,4 @@
-host = 'http://localhost:3000';
+host = 'http://techindepth.herokuapp.com';
 
 var card_tmpl = _.template($("#article_card").html());
 

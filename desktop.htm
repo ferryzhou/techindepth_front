@@ -8,8 +8,10 @@
 <body>
 <script id="article_card" type="text/template">
   <div class="article_brief">
-	<h3><%= title %><span><%= pubdate %></span></h3>
-	<%= content %>
+    <a class="link" href="<%= link %>" target="_blank">
+	<span class="title"><%= title %></span>
+	<span class="excerpt"><%= content %></span>
+    </a>
   </div>
 </script>
   

@@ -3,7 +3,9 @@ techindepth_front
 
 front end of techindepth
 
-demo: http://ferryzhou.github.com/techindepth_front/mobile_web/index.htm
+desktop: http://ferryzhou.github.com/techindepth_front/desktop.htm
+
+mobile: http://ferryzhou.github.com/techindepth_front/mobile_web/index.htm
 
 basic features: 
 - offline read
